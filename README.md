@@ -21,8 +21,7 @@ ______
 
 **Self Interests:**  Data Science, AI/ML, Cybersecurity  
 
-**Self Email:**  
-[gvsla.anu@gmail.com](mailto:gvsla.anu@gmail.com)  
+**Self Email:**  [gvsla.anu@gmail.com](mailto:gvsla.anu@gmail.com)  
 
 **Profiles**  
 ______
