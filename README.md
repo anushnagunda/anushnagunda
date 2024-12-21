@@ -7,26 +7,19 @@ ______
 **Kernel:** Computer Science and Software Engineering  
 **IDE:** VSCode  
 
-**Programming Languages:**  
-C, C++, Java, JavaScript, Python, CSS, HTML  
+**Programming Languages:**  C, C++, Java, JavaScript, Python, CSS, HTML  
 
-**Programming Frameworks:**  
-ReactJS, NodeJS, FastAPI  
+**Programming Frameworks:**  ReactJS, NodeJS, FastAPI  
 
-**Programming Databases:**  
-MySQL, MongoDB  
+**Programming Databases:**  MySQL, MongoDB  
 
-**Programming Libraries:**  
-NumPy  
+**Programming Libraries:**  NumPy  
 
-**Programming Services:**  
-AWS, Git  
+**Programming Services:**  AWS, Git  
 
-**Languages (Real):**  
-English, Telugu  
+**Languages (Real):**  English, Telugu  
 
-**Self Interests:**  
-Data Science, AI/ML, Cybersecurity  
+**Self Interests:**  Data Science, AI/ML, Cybersecurity  
 
 **Self Email:**  
 [gvsla.anu@gmail.com](mailto:gvsla.anu@gmail.com)  
