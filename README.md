@@ -5,7 +5,7 @@ ______
 **Uptime:** 20  
 **Host:** University of Washington, Bothell #UWB  
 **Kernel:** Computer Science and Software Engineering  
-**IDE:** VSCode  
+**IDE:** VSCode, BlueJay, Replit
 
 **Programming Languages:**  C, C++, Java, JavaScript, Python, CSS, HTML  
 **Programming Frameworks:**  ReactJS, NodeJS, FastAPI  
