@@ -2,10 +2,10 @@ anushna@gunda
 ______
 
 <span style="color: purple;">**OS:** iOS  
-**Uptime:** 20  
-**Host:** University of Washington, Bothell #UWB  
-**Kernel:** Computer Science and Software Engineering  
-**IDE:** VSCode, BlueJay, Replit
+<span style="color: purple;">**Uptime:** 20  
+<span style="color: purple;">**Host:** University of Washington, Bothell #UWB  
+<span style="color: purple;">**Kernel:** Computer Science and Software Engineering  
+<span style="color: purple;">**IDE:** VSCode, BlueJay, Replit
 
 **Programming Languages:**  C, C++, Java, JavaScript, Python, CSS, HTML  
 **Programming Frameworks:**  ReactJS, NodeJS, FastAPI  
