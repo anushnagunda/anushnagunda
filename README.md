@@ -1,7 +1,7 @@
 anushna@gunda
 ______
 
-**OS:** iOS  
+<span style="color: purple;">**OS:** iOS  
 **Uptime:** 20  
 **Host:** University of Washington, Bothell #UWB  
 **Kernel:** Computer Science and Software Engineering  
